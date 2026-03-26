@@ -116,19 +116,7 @@ Applied statistics + modeling:
 * Prefer simple, scalable solutions
 * Avoid overengineering
 
----
 
-## 🔗 CONNECTION
-
-```
-> establish secure channel...
-```
-
-* 💼 LinkedIn: (add your link)
-* 🌐 Portfolio: (add your site)
-* 📬 Email: (add your email)
-
----
 
 ## 🟩 SYSTEM METRICS
 
